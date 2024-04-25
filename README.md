@@ -1,5 +1,3 @@
-Claro! Aqui está o conteúdo combinado das duas documentações formatado com markdown para o GitHub:
-
 ---
 
 ## Caracteres Especiais em Python
