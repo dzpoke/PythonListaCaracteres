@@ -1,0 +1,2 @@
+# PythonListaCaracteres
+Lista de caracteres 
