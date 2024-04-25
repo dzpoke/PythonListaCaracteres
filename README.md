@@ -1,5 +1,6 @@
----
+Essa documentação combinada oferece uma visão geral completa dos caracteres especiais e normais em Python, explicando seu significado e função em detalhes.
 
+---
 ## Caracteres Especiais em Python
 
 Em Python, certos caracteres têm significados especiais dentro de strings literais. Eles desempenham funções específicas em expressões regulares, formatação de string, operações bitwise e outros contextos. Aqui está uma explicação sobre por que esses caracteres são especiais e uma tabela que lista esses caracteres junto com suas funções.
@@ -65,5 +66,3 @@ Além dos caracteres especiais, Python também possui uma variedade de caractere
 | `\n`, `\t`, `\r`, etc. | Representam caracteres especiais como nova linha, tabulação, retorno de carro, etc., em strings. |
 
 ---
-
-Essa documentação combinada oferece uma visão geral completa dos caracteres especiais e normais em Python, explicando seu significado e função em detalhes.
